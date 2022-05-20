@@ -1,4 +1,5 @@
 # Data Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&lines=Hi%2C+I'm+Matheus;Data+engineering+is+awesome.)](https://git.io/typing-svg)
 
 ## Stack
 
